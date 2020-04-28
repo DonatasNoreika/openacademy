@@ -30,6 +30,7 @@
         'templates.xml',
         'views/openacademy.xml',
         'views/partner_inherited.xml',
+        'reports.xml',
     ],
     # only loaded in demonstration mode
     'demo': [
